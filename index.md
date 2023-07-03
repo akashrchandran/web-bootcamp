@@ -6,3 +6,6 @@
 - [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_1/)
 
 - [Resource](https://scrimba.com/learn/htmlandcss/)
+
+* * *
+
