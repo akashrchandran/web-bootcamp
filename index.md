@@ -1,4 +1,7 @@
-
+---
+title: Web Development Bootcamp Tasks
+layout: default
+---
 
 # Task 1
 > Personal website using HTML, CSS and JS
