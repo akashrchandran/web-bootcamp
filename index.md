@@ -5,7 +5,7 @@
 
 - [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_1/)
 
-- [Resource](https://scrimba.com/learn/htmlandcss/)
+- [Resource](https://scrimba.com/playlist/pPvwXfE)
 
 * * *
 
@@ -17,3 +17,14 @@
 - [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_2/)
 
 - [Resource](https://scrimba.com/playlist/p5aGYHD)
+
+* * *
+
+# Task 2
+>Business card using HTML and CSS.
+
+- [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_3)
+
+- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_3/)
+
+- [Resource](https://scrimba.com/playlist/pKgWxCP)
