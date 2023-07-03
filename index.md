@@ -3,7 +3,7 @@
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_1)
 
-- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_1/)
+- [Website](https://github.akashrchandran.in/web-bootcamp/Task_1/)
 
 - [Resource](https://scrimba.com/playlist/pPvwXfE)
 
@@ -14,7 +14,7 @@
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_2)
 
-- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_2/)
+- [Website](https://github.akashrchandran.in/web-bootcamp/Task_2/)
 
 - [Resource](https://scrimba.com/playlist/p5aGYHD)
 
@@ -25,7 +25,7 @@
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_3)
 
-- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_3/)
+- [Website](https://github.akashrchandran.in/web-bootcamp/Task_3/)
 
 - [Resource](https://scrimba.com/playlist/pKgWxCP)
 
@@ -36,7 +36,7 @@
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_4)
 
-- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_4/)
+- [Website](https://github.akashrchandran.in/web-bootcamp/Task_4/)
 
 - [Resource](https://scrimba.com/playlist/pQ5apcn)
 
@@ -47,7 +47,7 @@
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_5)
 
-- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_5/)
+- [Website](https://github.akashrchandran.in/web-bootcamp/Task_5/)
 
 - [Resource](https://scrimba.com/playlist/pMgPEAM)
 
@@ -58,6 +58,6 @@
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Project_1)
 
-- [Webiste](https://github.akashrchandran.in/web-bootcamp/Project_1/)
+- [Website](https://github.akashrchandran.in/web-bootcamp/Project_1/)
 
 - [Resource](https://blog.akashrchandran.in/)
