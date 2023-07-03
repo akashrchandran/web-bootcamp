@@ -50,3 +50,14 @@
 - [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_5/)
 
 - [Resource](https://scrimba.com/playlist/pMgPEAM)
+
+* * *
+
+## Task 5
+> Personal static website using HTML, CSS and JS.
+
+- [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Project_1)
+
+- [Webiste](https://github.akashrchandran.in/web-bootcamp/Project_1/)
+
+- [Resource](https://blog.akashrchandran.in/)
