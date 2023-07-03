@@ -53,7 +53,7 @@
 
 * * *
 
-## Task 5
+## Project 1
 > Personal static website using HTML, CSS and JS.
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Project_1)
