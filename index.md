@@ -1,4 +1,4 @@
-# Task 1
+## Task 1
 > Personal website using HTML, CSS and JS
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_1)
@@ -9,7 +9,7 @@
 
 * * *
 
-# Task 2
+## Task 2
 > Google search clone using HTML, CSS and JS
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_2)
@@ -20,8 +20,8 @@
 
 * * *
 
-# Task 3
->Business card using HTML and CSS.
+## Task 3
+> Business card using HTML and CSS.
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_3)
 
@@ -31,11 +31,22 @@
 
 * * *
 
-# Task 4
->SpaceX exploration website using HTML and CSS.
+## Task 4
+> SpaceX exploration website using HTML and CSS.
 
 - [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_4)
 
 - [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_4/)
 
 - [Resource](https://scrimba.com/playlist/pQ5apcn)
+
+* * *
+
+## Task 5
+> Bithday website using HTML and CSS.
+
+- [Code](https://github.com/akashrchandran/web-bootcamp/tree/main/Task_5)
+
+- [Webiste](https://github.akashrchandran.in/web-bootcamp/Task_5/)
+
+- [Resource](https://scrimba.com/playlist/pMgPEAM)
